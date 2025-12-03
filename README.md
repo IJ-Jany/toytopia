@@ -2,7 +2,7 @@
 🧸 ToyTopia – Kids Toys Website
 ToyTopia is a fun, colorful and interactive kids toys website where users can explore different toys, view details, and enjoy a smooth shopping-like experience. This project is built with modern web technologies focused on performance, design, and user experience.
 
-Live Demo: (Add your live link here)
+Live Demo: https://borcelle-toy-shop.web.app/
 
 ✨ Features
 🎨 Beautiful, kid-friendly UI with colorful design
