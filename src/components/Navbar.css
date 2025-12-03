@@ -1,0 +1,10 @@
+.img-div{
+    position: relative;
+}
+.img-div span{
+    visibility: hidden;
+    position: absolute;
+}
+.img-div:hover span{
+    visibility: visible;
+}
