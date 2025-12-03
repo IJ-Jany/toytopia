@@ -29,7 +29,7 @@ Firebase
 ⚙️ Installation & Setup
 Follow these steps to run the project on your local machine:
 1️⃣ Clone the Repository
-git clone <your-repo-link>
+git clone https://github.com/IJ-Jany/toytopia.git
 2️⃣ Go to the Project Folder
 cd toytopia
 3️⃣ Install Dependencies
